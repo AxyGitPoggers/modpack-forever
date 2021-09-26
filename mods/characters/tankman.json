@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-210,
+				70
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Tankman Idle Dance instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				120
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Tankman UP note instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-140,
+				-29
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Tankman DOWN note instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-131,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Tankman Right Note instance"
+		},
+		{
+			"offsets": [
+				-240,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Tankman Note Left instance"
+		},
+		{
+			"offsets": [
+				-230,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "ugh",
+			"loop": false,
+			"name": "TANKMAN UGH instance"
+		},
+		{
+			"offsets": [
+				-212,
+				86
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "prettyGood",
+			"loop": false,
+			"name": "PRETTY GOOD tankman instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tank",
+	"position": [
+		0,
+		260
+	],
+	"healthicon": "tankman",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		20,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				91,
+				211
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "GF Dancing at Gunpoint"
+		},
+		{
+			"offsets": [
+				91,
+				193
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "cry",
+			"loop": true,
+			"name": "GF Crying at Gunpoint"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gftankmen",
+	"position": [
+		0,
+		260
+	],
+	"healthicon": "tankman",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"offsets": [-1, -128],
+			"indices": [4,5,6,7,8],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "pico speaker 2"
+		},
+		{
+			"offsets": [412, -64],
+			"indices": [1,2,3,4,5],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "pico speaker 3"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [1,2,3,4,5],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "pico speaker 1"
+		},
+		{
+			"offsets": [439, -19],
+			"indices": [1,2,3,4,5],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": true,
+			"name": "pico speaker 4"
+		},
+		{
+			"offsets": [-1, -128],
+			"indices": [1,2,3,4,5],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "pico speaker 2"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/picoSpeaker",
+	"position": [
+		0,
+		260
+	],
+	"healthicon": "tankman",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

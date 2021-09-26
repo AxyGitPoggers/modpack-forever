@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Tankman Menu BLACK",
+	"image": "default",
+	"position": [
+		0,
+		-53.5
+	],
+	"scale": 1.2,
+	"confirm_anim": "Tankman Menu BLACK"
+}
